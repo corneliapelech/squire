@@ -1,3 +1,15 @@
+# Squire
+
+## Tech stack
+- [React](https://reactjs.org/docs/hello-world.html) using JSX and Hooks
+- [JSS for React](https://cssinjs.org/react-jss/?v=v10.0.4)
+
+### Testing
+- [jest](https://jestjs.io/docs/en/api)
+- [jest-dom](https://github.com/testing-library/jest-dom)
+
+# Create React App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
