@@ -8,6 +8,24 @@
 - [jest](https://jestjs.io/docs/en/api)
 - [jest-dom](https://github.com/testing-library/jest-dom)
 
+----
+# Planned Features
+
+## Initiative Tracker
+- error handling, mandatory fields
+- add HP-fields for enemies (n fields per enemy, deletable)
+- add debuffs
+- add dots and keeping trace of rounds
+- save group of combatants to add to list
+
+## Dice-Roller
+- roll 1d20
+- roll 1d4, 1d6, 1d8, 1d10, 1d12, 1d%
+- roll any amount od dice, not just 1; show singular rolls and sum
+- roll and add modifiers
+
+----
+
 # Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -54,27 +72,3 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
